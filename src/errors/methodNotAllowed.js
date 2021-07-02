@@ -5,4 +5,5 @@ function methodNotAllowed(req, res, next) {
     });
   }
   
+  
   module.exports = methodNotAllowed;
